@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+description: This is the page descr
+background: 'images/dzddsk-1.jpeg'
 permalink: /about/
 ---
 
