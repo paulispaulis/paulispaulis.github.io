@@ -18,12 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PAULIS
+title: PAULIS writes
 email: so-vajag-jaunu@blabla.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Šo jāsaraksta foršu arī... čau :)
+  Writing is the deepest form of thinking.<br />
+  To write well is to think clearly. That's why it's so hard.<br />
+  That's why I'm here. To practice.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: Paulis Barzdins
+instagram_username: paulis_barzdins
+github_username: paulispaulis
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
