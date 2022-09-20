@@ -6,4 +6,4 @@ background: '../images/about.jpeg'
 permalink: /after-hours/
 ---
 
-After hours
+This is a default pointer link; in time I will add pages of quote collections or reviews or other posts.

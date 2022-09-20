@@ -2,7 +2,7 @@
 layout: page
 title: Contact me
 description: This is the page descr
-background: 'images/dzddsk-1.jpeg'
+background: '../images/contact2.jpeg'
 permalink: /contact/
 ---
 
