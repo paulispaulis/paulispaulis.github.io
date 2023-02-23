@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Project Adiyogi"
+title:  "Project ADIYOGI"
 subtitle: ""
 date:   2023-02-23 16:20:00 +0200
-background: '../images/post1.jpeg'
+background: '../images/adiyogi1.JPG'
 categories: dunno
 permalink: /project-adiyogi
 ---
@@ -25,12 +25,12 @@ Par1 and im writing
 
 ---
 
-## PROJECT ADIYOGI
+## Project ADIYOGI
 
 > You are entirely responsible for cutting through your own laziness, addictions, and unclarity.
 > <div style="text-align: right"> – David Deida </div>
 
-### Step 1: review day prior and plan day forth
+### Step 1: Review day prior and plan day forth
 
 "a ship never leaves port without a destination (in evening plan all)" (have as quote from the dude; and this is as motivation for why you plan course)
 
@@ -49,19 +49,19 @@ When time-blocking:
 - as "this" set tasks reduced to ones accomplishable today
 - as "nothing" can allow specific pieces of content for some parts of the day (prob not in AM... yes in PM)
 
-### Step 2: go to sleep
+### Step 2: Go to sleep
 
 Go to sleep. Sleep enough.
 
 Then you can start thinking about doing things. You'll also be more able to do things. And to not be distracted. Good shit.
 
-Do not fall into comfort seeking. That would just be running away from pain, which leads to suffering. Sit on the floor in discomfort, fall through the pain, until you reach the infinite loving core. Use sight and consciousness.
+Do not fall into comfort seeking. That would just be running away from pain, which leads to suffering. **Sit on the floor in discomfort, fall through the pain, until you reach the infinite loving core.** Use sight and consciousness.
 
-### Step 3: move immediately
+### Step 3: Move immediately
 
 Have first steps clear (back in step 1). Have first steps prepped (forth in step 5).
 
-Since I have difficulty starting moving, pack gym stuff night before and just GTFO of the house ASAP and go to the gym. That is a good default. When able, try working immediately, or maybe just short walks.
+Since I have difficulty starting moving, **pack gym stuff night before** and just **GTFO of the house ASAP** and go to the gym. That is a good default. When able, try working immediately, or maybe just short walks.
 
 Example default:
 
@@ -71,10 +71,10 @@ Example default:
 - brush teeth
 - out the door with the gym bag
 
-### Step 4: do or do not
+### Step 4: Do or do not
 
 > control attention, control action
-> <div style="text-align: right"> - can't find source... me? </div>
+> <div style="text-align: right"> - can't find source... me? fat chance </div>
 
 Either do the action in the plan, or do nothing.
 
@@ -88,8 +88,7 @@ When tired, options for recharging are:
 - stretch
 - exercise (quick BW)
 - nap
-- onon (no VS)
-    - no VS.
+- masturbate (no visual stimulus)
 - shower
 - tidy, clean
 - meditate
@@ -97,13 +96,13 @@ When tired, options for recharging are:
     - WHM
     - on that which is larger than life
 
-All can be 15min and without a screen.
+All can be 15min and without a screen (list taken from Niels blog).
 
 Don't spike dopamine prior or after effort, learn to spike it from effort itself. Meaning no YT as reward.
 
-Can try a long midday nap if energy is gone. (and to maybe be able to sleep 12-7 not 01-12...)
+Can try a long midday nap if energy is gone (and to potentially be able to sleep less than 11 hours during the night...).
 
-### Step 5: prepare; take care of the yourself of tomorrow
+### Step 5: Prepare; take care of the yourself of tomorrow
 
 Example default:
 
