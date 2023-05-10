@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Project GOLD"
-subtitle: "Review of "The Natural Order of Money" by Roy Sebag (among other things)"
-date:   2023-03-16 16:20:00 +0200
+title:  "Inflation, GCDCs, crypto, and why is everyone talking about gold?"
+subtitle: ""
+date:   2023-05-10 16:20:00 +0200
 background: '../images/adiyogi1.JPG'
 categories: dunno
 permalink: /project-gold
