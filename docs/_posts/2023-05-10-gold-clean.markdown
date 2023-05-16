@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inflation, GCDCs, crypto, and why is everyone talking about gold?"
+title:  "Inflation, CBDCs, crypto, and why is everyone talking about gold?"
 subtitle: ""
 date:   2023-05-09 16:20:00 +0200
 background: '../images/adiyogi1.JPG'
@@ -570,120 +570,113 @@ Cik palidz lokali savu algu uzreiz par zeltu parverst? i guess tikai izglabt no 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 # SKELETON NO. FINALLY GET THIS DONE
 
-# Inflation, GCDCs, crypto, and why is everyone talking about gold?
+# Inflation, CBDCs, crypto, and why is everyone talking about gold?
 
 ## Problem
 
-### Inflation (FIAT)
-
 > **Ideally perfect article for use as "money" is one that never changes**. This is essential for the protection of the workers [..]; for nothing tends to make every exchange of articles a speculation so much as "money" which changes in value, and **in the game of speculation the masses of the people are always sure to be beaten by the few who deal in money and know most about it**.
+> <div style="text-align: right"> – Andrew Carnegie, ABC of Money, ADD YEAR [LINK UZ LEJU KUR REFERENCES PILNAS?] </div>
 
-Modern money is hella changing. Un hella speculation kur zinataji apspele parastos masses. Tatad gold-backed it is? Lai modern tech pasargaa no coin shaving, bet vertibu tur zelts. Vel vajag lai gov nevar trackot (te nak kkads crypto?)
-
-
-
+This was Andrew Carnegie's worry at the beginning of the 20th century. This is our reality a hundred and some years later. By design our money is fading by 2% a year (by incompetence it is currently much more) and doing finance and speculation is indeed more prosperous than the everyday worker's attempts at value creation.
 
 > A coin is called a "debased" coin when it does not possess metal enough to bring in the open market the sum stamped upon the coin by the government.
-> Nations of the first rank in our day do not fall so low... [except US, which he says is shameful]
+> Nations of the first rank in our day [EARLY 20TH CENTURY] do not fall so low [except US, which he says is shameful].
 > When a government issues "debased coin", it takes leave of all that experience has proved to be sound in regard to money.
 > Every experiment of this kind has proved that there can be no money "made" where there is not value behind it.
+> ANDREW CARNEGIE, ABC of Money
 
-Viss modern money ir debased. Actually even more... constantly getting more debased by design (inflation goals)
+Our money has no relationship to metals or any commodity at all, it is all debased and getting more debased by the day. And while we pretend that this is normal and time tested, it has only been the case for 50 years, with the thousands of years before that suggesting that we are on a problematic path. The proposed solutions that are looming, both from the government – CBDCs (Central Bank Digital Currencies), and independent – cryptos, pretend to be solutions by shouting about their benefits while still overlooking the fundemental fault.
 
+> Speedy payment is pushed forward while the act of settlement is delayed. [..] a group of friends sitting in a circle pass around a melting ice cube: with each turn, the ice cube is fundamentally changed, and eventually it disappears altogether. With these monetary subsitutes, the party receiving the money in any transaction is not left with an equitable measurement, a just reward, or even a lasting store of value.
+> ROY SEBAG, ONE OF THE BLOGS
 
-### GCDC and crypto
-
-***> speedy payment is pushed forward while the act of settlement is delayed. [..] a group of friends sitting in a circle pass around a melting ice cube: with each turn, the ice cube is fundamentally changed, and eventually it disappears altogether. With these monetary subsitutes, the party receiving the money in any transaction is not left with an equitable measurement, a just reward, or even a lasting store of value***
-
-^^ settlement comes only when you've gotten hold of something. fiat money doesn't really do it... as you only hold a promise; and quite the shit one at that... (inflation and tbh any of the monetary manipulations). so the obsession with transaction speeds is weird... as the actual source of sorrow is lack of settlement. goldmoney proposes that gold would feel as settlement. since it is a real thing. it can still change in value relative to goods depending on how many goods are in the season. but that makes sense and is connected to reality (droughts and whatever).
-
-## Escalate
-
-> if I have to vote for silver and protection, or gold standard and free trade, I shall vote for the latter
-
-Vinam ir svarigi atbalstit vietejos! Bet pat above that vinam ir gold standard
+While we focus on the shiny benefits of CBDCs and cryptos, what our transactions lack is settlement. What our money lacks is inherent value, a property that the successful moneys have had since the first barters, which we removed only in 1971.
 
 ## Solution
 
-This was supposed to be a review of Sebag's "Natural Order of Money", but that book left me with more questions than answers. And after some looking around I feel as though Carnegie's "ABC of Money" covers the information better... but can't guarantee as I read them in one order.
+### Attach back to reality
 
+In comes Roy Sebag, who I first heard as a guest on [Jordan Peterson's podcast][jbp-sebag], then bought and read [his book][order of money], then read most of his [blogs][gm-blogs], and then one of his book suggestions there, by Andrew Carnegie, which you saw quoted already.
 
-In comes Roy Sebag, who I first heard as a guest on Jordan Peterson's podcast, then bought and read his book; he sets a hypothesis that humanity has become too detached from reality. He splits the economy into real and service, where the real interacts with the earth to produce a surplus of energy embodiments (food, fuel, or materials), while the service is a net consumer of these, and can logically only exist while the real economy supports it. But the world we live in today is ruled by the service economy and it has somehow taken the real economy hostage, having them produce the surplus we assume as guaranteed, and then the majority fuck around within the service economy, purposeless and unaccountable.
-
-He suggests
+Sebag proposes that humanity has become too detached from reality. He splits the economy into real and service, where the real interacts with the earth to produce a surplus of energy embodiments (food, fuel, or materials), while the service is a net consumer of these, and can logically only exist while the real economy supports it. But the world we live in today is ruled by the service economy and it has somehow taken the real economy hostage, having them produce the surplus we assume as guaranteed, and then fuck around purposeless and unaccountable. Sebag suggests
   
 > that we view **ideation**, which is the trade of the service economy, **as always and everywhere accountable to the real economy.**
 > p24
 
-A simple way to think of this would be whether the farmer (some member of the real economy) would be willing to part with his produced surplus for what you are giving him. To take myself as an example, I do AI research and dance; how should I conduct myself in these, so that the farmer would be willing to share with his surplus? The AI research ought to lead to something down the line usable and helpful, hopefully achieving something more than only publications with useless code. For dance, I think one important aspect is to not make it too alien to the farmer. One of my favourite reviews for a concert I participated in recently was that it was for the audience member
+A simple way to think of this would be whether the farmer (some member of the real economy) would be willing to part with his produced surplus for what you are giving him. To take myself as an example, I do AI research and dance; how should I conduct myself in these, so that the farmer would be willing to share with his surplus? The AI research ought to lead to something down the line usable and helpful, hopefully achieving something more than only publications with unusable code. For dance, I think one important aspect is to not make it too alien to the farmer. One of my favourite reviews for a concert I participated in recently was that it was for the audience member
 
 > the first contemporary dance concert, where I understood everything.
 > // izraksti precizak //
 
 It included a compliment and a diagnosis – modern contemporary dance has grown away from the farmer, it doesn't tell stories that he can relate to or understand; who is it for? Some circle jerk of the service economy? Meanwhile looking down at the farmer who doesn't understand?
 
-This example was more to do with the purpose of activities, but it also relates to the overall economy; we've grown to ignore the accountability we have to the earth and time, that we need this perpetual cooperation to function and survive; we've allowed ourselves to forget that survival isn't guaranteed, someone is always working to ensure it for you.
+This example was more to do with the purpose of activities, but it also relates to the overall economy; we've grown to ignore the accountability we have to the earth and time, that we need this perpetual cooperation to survive and function and thrive; we've allowed ourselves to forget that **survival isn't guaranteed, someone is always working to ensure it for you.**
 
 > What follows from ignoring this reality is an unnatural view of prosperity as something which can be mastered, determined, and distributed according to the personal desires and subjective ideals of the service economy.
 > p28
 
-Assuming prosperity the service economy, detached from reality, starts creating ideological battles over distribution and moralities
+So we get confused; so abstracted away from reality and our dependance in time to the earth and those who work it, that the idea of printing money and simply handing it out starts to make sense. What we need is to realign ourselves, remind us of our earthliness, that our prosperity is our ability to cooperate with the earth and have that cooperation thrive.
 
-
-> The more that our cooperative activities are aligned with the natural order in time, the more resilient, sustainable, and peaceful that state of prosperity will be. [The longer we sustain prosperity the better by] maximizing our personal time in order to pursue meaningful recreation: the formation of a household, cultural development, spiritual enlightenment, or any other form of leisure.
-
-^^ prosperity so that leisure; nevis assume prosperity & be a bitch; you aint entitled to shit. either farm or be *nice* to the farmer. nice nenozīmē pielīst, bet ... palīdzēt?
+> The more that our cooperative activities are aligned with the natural order in time, the more resilient, sustainable, and peaceful that state of prosperity will be. [The longer we sustain prosperity the better, by] maximizing our personal time in order to pursue meaningful recreation: the formation of a household, cultural development, spiritual enlightenment, or any other form of leisure.
 
 ### Real money; best of which is gold
 
-> What we now call "money" was not much used then in the West or South, but you see that in its absence experience had driven the people to select some one article to use for exchanging other articles, and that this was wheat in Pennsylvania and tobacco in Virginia. This was done, not through any legislation, but simply because experience had proved the necessity for making the one thing serve as "money" which had proved itself best as a basis in paying [..].
+How do we achieve this realignment? By returning to real money.
+
+> What we now call "money" was not much used then [refering to a time of barter] in the West or South, but you see that in its absence experience had driven the people to select some one article to use for exchanging other articles, and that this was wheat in Pennsylvania and tobacco in Virginia. This was done, not through any legislation, but simply because experience had proved the necessity for making the one thing serve as "money" which had proved itself best as a basis in paying [..].
 > Please observe that in all cases human society chooses for that basis-article we call "money" that which **fluctuates least** in price, is the **most generally used or desired**, is in the greatest, most general, and **most constant demand, and has value in itself.**
 > Then metals proved their superiority. These do not decay, do not change in value so rapidly, and they share with wheat and tobacco the one essential quality of also having value in themselves for other purposes than for the mere basis of exchange.
+> Andrew Carnegie, ABC of Money
 
+The one fundemental property which we want to introduce back to money, which has recently been lost, and the importance of which seems to be overlooked when discussing many new payment options, is the inherent value. Money has to be an energy embodiment. Then monetary policy would be dictated by our relationship to the earth instead of some abstracted metrics. It would also remove the option of simply printing money; if the government wants money to spend it has to convince the populous to pay taxes, instead of diminishing the savings by inflating the money supply.
 
-kāpēc visas sliktās lietas kas ir ar cash neturpināsies vnk ar zeltu?
-
-***^^ nu... laikam tas ka nevarēs fkd up monetary policy? un drukāt bezgalīgi un dot bail-outs? tie kas ir rich joprojām būs rich, bet gov nevarēs viņiem maģiski palīdzēt at the expense of devaluing your savings.***
-
-
-***Yes, gold has inherent value as it is a valuable and rare precious metal that is used in various applications, including jewelry, electronics, medicine, aerospace, and more. Gold has been used as a form of currency for thousands of years and is considered a "safe haven" asset that investors turn to during times of economic uncertainty.***
-
-***If gold was only used as a commodity and not for its investment value, its price would likely depend on supply and demand factors, such as the amount of gold available for sale and the demand for gold in various industries. It is difficult to predict the exact price, as it would fluctuate based on market conditions. However, it is worth noting that gold's high value and rarity would likely keep its price relatively high even if it was only used as a commodity.***
-
-
-> Thus, **in a generative cycle**, a growing **surplus** of energy **embodiments will exist relative to the gold** money, **signalling** the state of **abundance** from nature **and** the carrying **capacity to support an expansion of service economic activities**. Conversely, **in a degenerative cycle**, a **diminishing** surplus of energy **embodiments** will exist **relative to the gold** money, **signalling** a state of **deficiency** from nature and the **need to realign economic activity towards the real economy**.
+> **in a generative cycle**, a growing **surplus** of energy **embodiments will exist relative to the gold** money, **signalling** the state of **abundance** from nature **and** the carrying **capacity to support an expansion of service economic activities**. Conversely, **in a degenerative cycle**, a **diminishing** surplus of energy **embodiments** will exist **relative to the gold** money, **signalling** a state of **deficiency** from nature and the **need to realign economic activity towards the real economy**.
 > p50
 
-^^ tātad viņš piedāvā nevis monetary policy & central banks groza kloķus, bet ka Gaia pati visu darīs? kinda cool if it works. tasks daru pēc mēness fāzēm, monetary policy pēc Gaia
-***KO ŠIS dara ar savings. jo tas bija tas kur visam cenu maiņa didnt do enough. (nu un kad valstij vnk iet shit). kad ir sūdīgi laiki mans zelts krīt vērtībā (inflācija). laikm neko baigi. kā zelts uzvedīsies kad valstij ir sūdīgi un viņa grib būt labāks exporter...? viņiem nav necik resursu sooo... nezinu. es gan arī ne līdz galam saprotu kā valūtas palīdz... sure devalue your currency so you can be a competitive seller. then what? you get lil amounts of money and you still struggle to buy foreign tractors. locally... vienīgā atšķirība no vnk zemākām cenām ir ka bank accounts also get slashed through devaluation.***
+It is probably too optimistic and naive to think that this will solve everything with no transitional pains. For example, when vetting this idea with friends more educated in economics than myself, one issue raised was that without the option of devaluing currency, financially struggling countries cannot make their exports competitive. Though I am sceptical of the efficacy of the current setup – devaluing your own currency you make your exports more competitive, but you slash your populations savings relative to other currencies; it creates an illusion of making the country more money, but the country's purchasing power is heavily weakened. With gold as money there wouldn't be the option for these kinds of manipulations, the country would just have to figure out a way of providing value... (and maybe some limitations on free trade so that local food is bought, instead of sending all the money overseas...)
 
-### This isn't to make money, but to store value (without inflation eating away).
+While this part sounds potentially scary, gold as money also removes the manipulations most agree are undesirable – government printing money to bail out large coorporations. We might be able to return to the open market we pretend to be in, but have left it some while ago.
 
-### Likely in form of gold backed tokens for daily use, gold in any form for money you want to store (but still liquid), invest to earn with the rest
+So the world I am attempting to paint here, with gold as money, is one where transactions once again have settlement! As in each transaction you now receive something with inherent value in exchange for your good or service. This wouldn't be some speculation scheme for earning explosively like what bitcoin and the like currently are used as, but a store of value where inflation wouldn't eat away. And this doesn't mean returning to a world of only physical coins; we can use modern technology for the speed and trust, only have the modern tokens (physical cash money or crypto like) be backed by gold, and preferably always be redeemable as physical gold.
 
 ## Practical steps
 
-### The amount you want as liquid money savings – buy gold now
+So I've attempted to paint this potential golden future, now comes the question – what can you do today?
 
-### For daily use as money – likeliest is gold-backed ... crypto? gov curr? some 3rd party protects the gold and gives tokens for you to use. texas is thinking, goldmoney, ... Look out for and "support".
+Eventually you'd want to be in the state where your daily spending happens with some gold-backed token (cash or card or crypto), your liquid cash savings are in gold (you can store it yourself or with someone you trust), and the rest of your portfolio is other investments that earn you money.
 
-#### texas seems to have started! buy that shit and have your gov mby do smth similar? or start a business... or...
+The earning investment portfolio is already possible today, our golden plan for the future doesn't affect it.
 
+The **cash savings in the form of gold is likely the most actionable step**, which can be done today, but you likely yet haven't! The part of your savings you want to be liquid, but aren't planning to spend in the foreseeable future you can store in gold. Gold coins and bullions of various weights are available, and while local research of sellers and their premiums is needed, this is a simple first step to take.
 
-from https://oilprice.com/Metals/Gold/Texas-May-Launch-Its-Own-Gold-backed-Digital-Currency.html
+The final missing piece is the gold-backed tokens. Which we'd eventually want to be mainstream enough that your income is in gold, instead of having to convert it yourself. While this isn't yet solved, potential first steps are being taken! There are some gold-backed cryptos, as well as some gold storage companies which offer credit cards where upon spending your gold is converted (and always redeemable physically). A promising step is the state of [Texas considering to launch its own gold-backed digital currency](https://oilprice.com/Metals/Gold/Texas-May-Launch-Its-Own-Gold-backed-Digital-Currency.html). If this happens and people use it and like it then it might force other states and countries to follow! And if there is competition for the form in which it is implemented (redeemability of gold and privacy of spending) then this competition might allow us to avoid authoritarian digital currencies.
 
-> Impact
+I'll include some extracts from the article about the potential Texas gold-backed currency, which explains some of the potential positive impact:
 
 > The creation of a state-issued gold-backed digital currency would create currency competition with Federal Reserve notes and undermine the Fed’s monopoly on money. It would also provide an alternative if the Federal Reserve implements a central bank digital currency.
-
 > Broadly speaking, by making gold conveniently available for regular, daily transactions by the general public, gold-backed digital currency would create the potential for a wide-reaching effect. Professor William Greene, an expert on constitutional tender, said in a paper for the Mises Institute that when people in multiple states actually start using gold instead of Federal Reserve notes, it would effectively nullify the Federal Reserve and end the federal government’s monopoly on money.
-
 > “Over time, as residents of the state use both Federal Reserve notes and silver and gold coins, the fact that the coins hold their value more than Federal Reserve notes do will lead to a ‘reverse Gresham’s Law’ effect, where good money (gold and silver coins) will drive out bad money (Federal Reserve notes).
-
 > “As this happens, a cascade of events can begin to occur, including the flow of real wealth toward the state’s treasury, an influx of banking business from outside of the state – as people in other states carry out their desire to bank with sound money – and an eventual outcry against the use of Federal Reserve notes for any transactions.”
-
 > Gresham’s Law holds that “bad money drives out good.”  For example, when the U.S. government replaced silver quarters and dimes with coins made primarily of less valuable copper, the cheap coins drove the silver out of circulation. People hoarded the more valuable silver coins and spent the less valuable copper money. So, how do you reverse Gresham?
-
 > The key is in making it easier to use gold in everyday transactions. The reason bad money drives out good is that governments put up barriers to using sound money in day-to-day life. That makes it more costly to spend gold and incentivizes hoarding. When you remove barriers, you level the playing field and allow gold and silver to compete head-to-head with Federal Reserve notes. On an even playing field, gold beats fiat money every time.
+
+
+
+
+
+
+
+[jbp-sebag]: www
