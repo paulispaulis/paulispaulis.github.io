@@ -13,6 +13,14 @@ p {
 }
 </style>
 
+**Enter your email below to receive further letters as I write them:**
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/paulis?as_embed=true"
+></iframe>
+
+---
 
 # Release jealousy, be sexy
 
