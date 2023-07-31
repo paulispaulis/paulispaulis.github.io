@@ -3,7 +3,7 @@ layout: post
 title:  "Release jealousy, be sexy"
 subtitle: "Whenever you believe that something or someone, some insight or some experience will truly make you happy, you are wrong. Only opening as you are is true happiness. You suffer jealousy when you forget this."
 date:   2023-07-30 16:20:00 +0200
-background: '../images/adiyogi1.JPG'
+background: '../images/cigars.JPG'
 categories: dunno
 permalink: /release-jealousy-be-sexy
 ---
@@ -25,7 +25,7 @@ Reconnecting with a girl after time apart; when she acts different becoming obse
 These three (separate) stories illustrate how our insecurities, assumptions, and frustrations can lead us astray, causing misunderstandings and damaging connections. Wanting of more attention, frustrated at lack of craving, feeling time-pressed; whenever you inhabit these narratives, the only thing you get is less sexy.
 
 > Whenever you believe that something or someone, some insight or some experience will truly make you happy, you are wrong. Only opening as you are is true happiness. You suffer jealousy when you forget this.
-> *– David Deida, Blue Truth*
+> <div style="text-align: right"> – David Deida, Blue Truth </div>
 
 By allowing jealousy to dictate our actions, we sabotage the very things we desire.
 
@@ -44,7 +44,7 @@ Ending up unhappy, bitter, and lost in the world.
 ## Beyond jealousy
 
 > The most erotic moment for a woman is feeling that you are Shiva, the divine masculine: unperturbable, totally loving, fully present, and all-pervading. She cannot move you, because you already are what you are, with or without her. She cannot scare you away, because you already penetrate her in fearless love, pervading her heart and body. She cannot distract you, because your one-pointed commitment to truth will not bend to her wiles. Feeling this hugeness of love and freedom in you, she can trust you, utterly, and surrender her testing in celebration of love.
-> *– David Deida, Blue Truth*
+> <div style="text-align: right"> – David Deida, Blue Truth </div>
 
 This is the vision I'm moving towards; for me that would be embodying the mainly masculine role of this painting (so am currently less equipped to comment on the feminine, but maybe in time).
 
@@ -67,24 +67,32 @@ Another strong correlation for me is when I think there *isn't enough time*. I s
 Let's arrange this in a step-by-step plan:
 
 ### 1. Notice jealousy!
-   You might know it directly, it might look like bitterness in you, maybe you notice tension in how you're acting. What we will try to do here is bring back presence, so even if the emotion is something slightly other than jealousy, the practices won't do you much harm.
+
+You might know it directly, it might look like bitterness in you, maybe you notice tension in how you're acting. What we will try to do here is bring back presence, so even if the emotion is something slightly other than jealousy, the practices won't do you much harm.
 
 ### 2. Distance yourself from the trigger!
-   You need a little break to recuperate and get back to doing your thing. It might be deleting some social media apps, maybe taking a quick walk in the middle of some event, or, if physical distance can't be achieved, then just take a mental break. Pause talking, [find the infinite deep consciousness inside of you](te varētu linku uz mykonos apskatu) at all times, and retreat there for a second (probably try the physical distance first, easier to do).
+
+You need a little break to recuperate and get back to doing your thing. It might be deleting some social media apps, maybe taking a quick walk in the middle of some event, or, if physical distance can't be achieved, then just take a mental break. Pause talking, [find the infinite deep consciousness inside of you](te varētu linku uz mykonos apskatu) at all times, and retreat there for a second (probably try the physical distance first, easier to do).
 
 ### 3. Realise you don't need anything external, happiness comes when opening as you are!
-   Think back to David Deida's quote I shared at the very beginning; whenever you believe that something or someone is what will truly make you happy, you are wrong. Open as you are. How to do that?
+
+Think back to David Deida's quote I shared at the very beginning; whenever you believe that something or someone is what will truly make you happy, you are wrong. Open as you are. How to do that?
 
 ### 4. Opening closure.
-   > As the closure, heat it up and open as its texture, feeling whatever you feel as openness. [..] You notice closure, and open. Openness abides – for a while. Again, you can notice closure, allow yourself to *be* closure, then, feeling as closure, heat it up and open.
+
+> As the closure, heat it up and open as its texture, feeling whatever you feel as openness. [..] You notice closure, and open. Openness abides – for a while. Again, you can notice closure, allow yourself to *be* closure, then, feeling as closure, heat it up and open.
    
-   This is one of Deida's practices from the Blue Truth. You can start by closing your eyes, so it is easier to notice the tenseness in you, where it is. Mine is often in the chest or solar plexus. Your aim is then to open it, which can be done by focusing on the tenseness, being the tenseness, then heating it up until it releases.
-   It can sometimes be difficult to immediately move into a practice like this; something that has helped me is to know some activities that I find beautiful and grounding. If I go dance, play the piano, go to the gym, exchange smiles with a stranger, breathe as everyone in the park, I know that doing these calms and grounds me, to then be able to open the closure (or it might already have opened).
+This is one of Deida's practices from the Blue Truth. You can start by closing your eyes, so it is easier to notice the tenseness in you, where it is. Mine is often in the chest or solar plexus. Your aim is then to open it, which can be done by focusing on the tenseness, being the tenseness, then heating it up until it releases.
+
+It can sometimes be difficult to immediately move into a practice like this; something that has helped me is to know some activities that I find beautiful and grounding. If I go dance, play the piano, go to the gym, exchange smiles with a stranger, breathe as everyone in the park, I know that doing these calms and grounds me, to then be able to open the closure (or it might already have opened).
 
 ### 5. Get back to doing *your* thing.
-   After regaining calm, remember ([or find](te par purpose meklēšanu)) what it is you have to do in this world, then do it for the sake of doing it, expecting nothing in return.
-   > Most men make the error of thinking that one day it will be done. They think, "If I can work enough, then one day I could rest." Or, "One day my woman will understand something and then she will stop complaining." Or, "I'm only doing this now so that one day I can do what I really want with my life. " The masculine error is to think that eventually things will be different in some fundamental way. They won't. It never ends. As long as life continues, the creative challenge is to tussle, play, and make love with the present moment while giving your unique gift.
-   > *– David Deida, The Way of the Superior Man*
+
+After regaining calm, remember ([or find](te par purpose meklēšanu)) what it is you have to do in this world, then do it for the sake of doing it, expecting nothing in return.
+
+> Most men make the error of thinking that one day it will be done. They think, "If I can work enough, then one day I could rest." Or, "One day my woman will understand something and then she will stop complaining." Or, "I'm only doing this now so that one day I can do what I really want with my life. " The masculine error is to think that eventually things will be different in some fundamental way. They won't. It never ends. As long as life continues, the creative challenge is to tussle, play, and make love with the present moment while giving your unique gift.
+> 
+> <div style="text-align: right"> – David Deida, The Way of the Superior Man </div>
    
 Nothing will ever be easier, nothing will ever be done. Readjust your expectations, and, at least for me, that took a weight off my chest.
 
@@ -94,5 +102,6 @@ By embracing the present moment, we can find a sense of fulfilment that transcen
 
 Release; and be sexy.
 
-> *- I am consciousness, and you are mine, my bright bitch.
-> - I am light. Take me … if you dare!*
+> *- I am consciousness, and you are mine, my bright bitch.*
+> 
+> *- I am light. Take me … if you dare!*
