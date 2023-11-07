@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
+                "file": "templates/yyyy-mm-dd-title-of-thing.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
+                "file": "templates/yyyy-mm-dd-title-of-thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
+                "file": "templates/yyyy-mm-dd-title-of-thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-07-revive-the-divine-feminine-around-you.md"
+                "file": "templates/yyyy-mm-dd-title-of-thing.md"
               }
             }
           }
@@ -160,19 +160,23 @@
   },
   "active": "7afa5c076f44b32e",
   "lastOpenFiles": [
-    "templates/yyyy-mm-dd-title-of-thing.md",
+    "_site/revive-the-divine-feminine.html",
+    "_site/images/beach2.jpg",
+    "_site/images/beach1.jpg",
+    "_site/smthn-smthn.html",
+    "_posts/OLD-GOLD-DRAFT.md",
     "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
-    "images/beach2.jpg",
-    "images/beach1.jpg",
     "_posts/2023-07-30-release-jealousy-be-sexy.md",
-    "_posts/2023-05-10-gold-clean.md",
     "_posts/2023-02-23-project-adiyogi.md",
     "_posts/2022-09-19-what-do-i-want-out-of-life.md",
+    "templates/yyyy-mm-dd-title-of-thing.md",
+    "images/beach2.jpg",
+    "images/beach1.jpg",
+    "_posts/2023-05-10-gold-clean.md",
     "about.md",
     "contact.md",
     "index.md",
     "templates",
-    "after-hours/index.md",
-    "_posts/OLD-GOLD-DRAFT.md"
+    "after-hours/index.md"
   ]
 }

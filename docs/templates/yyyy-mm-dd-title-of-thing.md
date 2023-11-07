@@ -26,12 +26,12 @@ You are welcome to comment and discuss under the relevant [post on X](){:target=
 
 ---
 
+{% comment %}
+
 Quote example:
 
 > Whenever you believe that something or someone, some insight or some experience will truly make you happy, you are wrong. Only opening as you are is true happiness. You suffer jealousy when you forget this.
 > <div style="text-align: right"> – David Deida, Blue Truth </div>
-
-{% comment %}
 
 [teksts te ir][linkname]{:target="_blank" rel="noopener noreferrer"}
 
@@ -39,6 +39,7 @@ Quote example:
 
 ![process flow]({{ site.baseurl }}/images/survey/flow.png)
 
+{% endcomment %}
 
 ---
 
