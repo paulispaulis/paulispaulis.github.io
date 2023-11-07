@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efcb3841f613adce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/yyyy-mm-dd-title-of-thing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_posts/2023-11-07-revive-the-divine-feminine-around-you.md"
               }
             }
           }
@@ -148,14 +160,19 @@
   },
   "active": "7afa5c076f44b32e",
   "lastOpenFiles": [
-    "contact.md",
+    "templates/yyyy-mm-dd-title-of-thing.md",
+    "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
+    "images/beach2.jpg",
+    "images/beach1.jpg",
     "_posts/2023-07-30-release-jealousy-be-sexy.md",
-    "about.md",
     "_posts/2023-05-10-gold-clean.md",
-    "index.md",
+    "_posts/2023-02-23-project-adiyogi.md",
     "_posts/2022-09-19-what-do-i-want-out-of-life.md",
+    "about.md",
+    "contact.md",
+    "index.md",
+    "templates",
     "after-hours/index.md",
-    "_posts/OLD-GOLD-DRAFT.md",
-    "_posts/2023-02-23-project-adiyogi.md"
+    "_posts/OLD-GOLD-DRAFT.md"
   ]
 }
