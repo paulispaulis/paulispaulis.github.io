@@ -22,7 +22,7 @@ src="https://buttondown.email/paulis?as_embed=true"
 
 ---
 
-You are welcome to comment and discuss under the relevant [post on X](){:target="_blank" rel="noopener noreferrer"}.
+You are welcome to [comment and discuss under the relevant post on X](https://x.com/pauliswrites/status/1721904074915041386?s=20){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 
@@ -141,7 +141,7 @@ Paulis
 
 ---
 
-You are welcome to comment and discuss under the relevant [post on X](){:target="_blank" rel="noopener noreferrer"}.
+You are welcome to [comment and discuss under the relevant post on X](https://x.com/pauliswrites/status/1721904074915041386?s=20){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 

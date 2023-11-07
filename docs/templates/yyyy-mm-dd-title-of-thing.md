@@ -22,7 +22,7 @@ src="https://buttondown.email/paulis?as_embed=true"
 
 ---
 
-You are welcome to comment and discuss under the relevant [post on X](){:target="_blank" rel="noopener noreferrer"}.
+You are welcome to [comment and discuss under the relevant post on X](){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 
@@ -43,7 +43,7 @@ Quote example:
 
 ---
 
-You are welcome to comment and discuss under the relevant [post on X](){:target="_blank" rel="noopener noreferrer"}.
+You are welcome to [comment and discuss under the relevant post on X](){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 
