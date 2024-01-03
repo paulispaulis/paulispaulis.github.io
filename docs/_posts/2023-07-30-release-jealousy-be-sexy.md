@@ -20,6 +20,8 @@ style="width:100%!important;height:220px;border:1px #ccc solid !important"
 src="https://buttondown.email/paulis?as_embed=true"
 ></iframe>
 
+<script async data-uid="adfacc6dbf" src="https://paulis.ck.page/adfacc6dbf/index.js"></script>
+
 ---
 
 # Release jealousy, be sexy
@@ -113,3 +115,5 @@ Release; and be sexy.
 > *- I am consciousness, and you are mine, my bright bitch.*
 > 
 > *- I am light. Take me … if you dare!*
+
+<script async data-uid="adfacc6dbf" src="https://paulis.ck.page/adfacc6dbf/index.js"></script>

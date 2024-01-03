@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7afa5c076f44b32e",
+            "id": "c8a0f44024f7675e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "_posts/2023-12-08-from-cowards-to-conquerors.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c8a0f44024f7675e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/posts.jpeg"
               }
             }
           }
@@ -156,28 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7afa5c076f44b32e",
+  "active": "c8a0f44024f7675e",
   "lastOpenFiles": [
+    "_posts/2023-02-23-project-adiyogi.md",
+    "_posts/2022-09-19-what-do-i-want-out-of-life.md",
+    "_posts/2023-05-10-gold-clean.md",
+    "_posts/2023-07-30-release-jealousy-be-sexy.md",
+    "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
+    "_posts/2023-12-08-from-cowards-to-conquerors.md",
     "images/posts.jpeg",
     "images/post1.jpeg",
     "images/dzddsk-1.jpeg",
     "images/contact2.jpeg",
     "images/contact.jpeg",
     "images/adiyogi1.JPG",
-    "_posts/2023-12-08-from-cowards-to-conquerors.md",
-    "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
     "templates/yyyy-mm-dd-title-of-thing.md",
-    "_posts/2023-07-30-release-jealousy-be-sexy.md",
     "_site/revive-the-divine-feminine.html",
     "_site/images/beach2.jpg",
     "_site/images/beach1.jpg",
     "_site/smthn-smthn.html",
     "_posts/OLD-GOLD-DRAFT.md",
-    "_posts/2023-02-23-project-adiyogi.md",
-    "_posts/2022-09-19-what-do-i-want-out-of-life.md",
     "images/beach2.jpg",
     "images/beach1.jpg",
-    "_posts/2023-05-10-gold-clean.md",
     "about.md",
     "contact.md",
     "index.md",
