@@ -128,8 +128,17 @@
                 "file": "_posts/2023-12-08-from-cowards-to-conquerors.md"
               }
             }
+          },
+          {
+            "id": "75bb08a15f6b507b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,14 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8a0f44024f7675e",
+  "active": "5f0bd1dada4fd01e",
   "lastOpenFiles": [
+    "_posts/2023-12-08-from-cowards-to-conquerors.md",
     "_posts/2023-02-23-project-adiyogi.md",
     "_posts/2022-09-19-what-do-i-want-out-of-life.md",
     "_posts/2023-05-10-gold-clean.md",
     "_posts/2023-07-30-release-jealousy-be-sexy.md",
     "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
-    "_posts/2023-12-08-from-cowards-to-conquerors.md",
     "images/posts.jpeg",
     "images/post1.jpeg",
     "images/dzddsk-1.jpeg",
