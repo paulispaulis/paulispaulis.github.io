@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c280858e4377c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "_posts/2023-12-08-from-cowards-to-conquerors.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-08-from-cowards-to-conquerors.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-08-from-cowards-to-conquerors.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-08-from-cowards-to-conquerors.md"
+                "file": "index.md"
               }
             }
           },
@@ -157,15 +169,18 @@
   },
   "active": "c8a0f44024f7675e",
   "lastOpenFiles": [
+    "posts/index~.html",
+    "_posts/2023-12-08-from-cowards-to-conquerors.md",
+    "images/dzddsk-1.jpeg",
+    "images/posts.jpeg",
+    "index.md",
+    "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
+    "_posts/2023-07-30-release-jealousy-be-sexy.md",
+    "_posts/OLD-GOLD-DRAFT.md",
     "_posts/2022-09-19-what-do-i-want-out-of-life.md",
     "_posts/2023-02-23-project-adiyogi.md",
     "_posts/2023-05-10-gold-clean.md",
-    "_posts/2023-07-30-release-jealousy-be-sexy.md",
-    "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
-    "_posts/2023-12-08-from-cowards-to-conquerors.md",
-    "images/posts.jpeg",
     "images/post1.jpeg",
-    "images/dzddsk-1.jpeg",
     "images/contact2.jpeg",
     "images/contact.jpeg",
     "images/adiyogi1.JPG",
@@ -174,12 +189,10 @@
     "_site/images/beach2.jpg",
     "_site/images/beach1.jpg",
     "_site/smthn-smthn.html",
-    "_posts/OLD-GOLD-DRAFT.md",
     "images/beach2.jpg",
     "images/beach1.jpg",
     "about.md",
     "contact.md",
-    "index.md",
     "templates",
     "after-hours/index.md"
   ]
