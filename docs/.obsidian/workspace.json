@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c280858e4377c64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "_posts/2023-12-08-from-cowards-to-conquerors.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2023-12-08-from-cowards-to-conquerors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2023-12-08-from-cowards-to-conquerors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_posts/2023-12-08-from-cowards-to-conquerors.md"
               }
             }
           },
@@ -169,11 +157,11 @@
   },
   "active": "c8a0f44024f7675e",
   "lastOpenFiles": [
+    "index.md",
     "posts/index~.html",
     "_posts/2023-12-08-from-cowards-to-conquerors.md",
     "images/dzddsk-1.jpeg",
     "images/posts.jpeg",
-    "index.md",
     "_posts/2023-11-07-revive-the-divine-feminine-around-you.md",
     "_posts/2023-07-30-release-jealousy-be-sexy.md",
     "_posts/OLD-GOLD-DRAFT.md",

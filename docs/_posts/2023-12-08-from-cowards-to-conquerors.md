@@ -38,6 +38,16 @@ Quote example:
 
 # From Cowards to Conquerors: The Power of Courage to Overcome Procrastination and Find Purpose
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOCVtFPArNo?si=yXBiUMi_KERJS1vE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+You are a coward. We all are. We run, dodge, and hide from the commitments and challenges life throws our way. At the heart of it, we are afraid. Afraid of failure, of ridicule, of discomfort. So we burn our days in circles of endless mundanity, imprisonment cloaked as safety. It's the dance of the frightened, a dance we've all perfected. But what if this dance is not the melody of our lives but a discordant note drowning out the true symphony of our existence?
+
+This cowardice, this life of easy decisions and missed opportunities, is a path to an empty deathbed, an epitaph reading "Here lies wasted potential." The harsh reality is that without change, your life will culminate in regret, a monument to the things you never had the courage to do.
+
+Now, imagine a different life. A life of purpose, of deliberate action, of quiet courage. A life where fear is not a jailer, but a catalyst; where procrastination is not a refuge, but a challenge; where distractions are not a comfort, but a hindrance. This is the way of the conqueror, a path known to the sage and hero alike, leading from procrastination and fear to purpose and fulfillment. This path is not easy, nor comfortable. But as you'll discover in the stories of Homer's heroes and Viktor Frankl's concentration camp survivors, it is in walking this path that we truly learn to live. 
+
+So, will you remain a coward, or will you rise to become a conqueror, a master of your own existence? Shall we begin?
+
 ## Chapter 1. The Dance of the Frightened
 
 > The coward’s complexion will always keep changing hue, his inner thoughts never are calm, won’t let him sit still, he shifts from ham to ham, puts his weight on either foot; but the brave man’s complexion’s unchanging.
