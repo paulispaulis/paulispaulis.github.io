@@ -1,11 +1,11 @@
 ---
 layout: post
-title: title of thing
-subtitle: 
+title: CLARITY PROJECT
+subtitle: make your 20s intentional
 date: 2024-02-28 04:20:00 +0200
 background: ../images/some.jpeg
 categories: 
-permalink: /smthn-smthn
+permalink: /clarity-project
 ---
 <style>
 p {
