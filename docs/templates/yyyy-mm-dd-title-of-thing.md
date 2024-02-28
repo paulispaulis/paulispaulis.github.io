@@ -32,6 +32,8 @@ Quote example:
 
 [linkname]: after-hours
 
+<img src="{{ site.baseurl }}/images/shortcuts.png" alt="shortcuts" style="width:100%;">
+
 ![process flow]({{ site.baseurl }}/images/survey/flow.png)
 
 {% endcomment %}

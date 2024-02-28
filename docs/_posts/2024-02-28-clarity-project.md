@@ -171,7 +171,7 @@ So that in the moments when this anxiety beckons, I can ask myself, what might I
 
 For the **apps on my phone**, I've removed most completely. If you need to leave something, you can try OneSec or create something similar yourself (the shortcut below, as an automation upon opening said app). So your phone either has nothing to be opened, or forces you to think for a few seconds about what you are doing.
 
-![process flow]({{ site.baseurl }}/images/shortcuts.png)
+<img src="{{ site.baseurl }}/images/shortcuts.png" alt="shortcuts" style="width:100%;">
 
 On **masturbation and finishing**. The sexual drive is among the most powerful a person can have. We often move mountains for people when courting. This chemical potential is in us. But we rarely take control of it. Which I find wasteful, so I'm talking about it. The specific details would differ, but think about it.
 
