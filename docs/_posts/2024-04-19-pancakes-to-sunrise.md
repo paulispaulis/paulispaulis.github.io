@@ -341,7 +341,7 @@ And that, dear friend, is just the beginning of our journey together. In our nex
 
 Now, go out there and **be a good gardener**. Create a day filled with adventure as you walk around town picking up that book you'll read tonight, finding the perfect candles, sourcing complex carbs for dinner, and perhaps even acquiring a sleeping mask, some micropore tape and ear plugs. And why not pick up some essential oil and electrolytes while you're at it? Remember to put your phone away and enjoy the simple pleasure of walking, just you and the world around you.
 
-Sweet dreams and see you soon in the next video! Check out that checklist below!
+Sweet dreams and see you soon in the next video! Check out that checklist below (I will release it with the video; subscribe to the newsletter to get it when it is done)!
 
 ---
 
