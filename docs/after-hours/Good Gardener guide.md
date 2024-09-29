@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guide to being a GOOD GARDENER
-background: ../images/garden4.png
+background: ../images/garden4.jpeg
 permalink: /good-gardener-guide/
 ---
 Unearth the keys to cultivating a life of growth, beauty, and purpose with our comprehensive guide: **How to Be a Good Gardener for this World**. This isn't your typical gardening manual. Instead, it's a roadmap to self-enlightenment, designed to help you nurture not just your surroundings, but your inner self too.

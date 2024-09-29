@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guide to being a GOOD GARDENER
-background: ../images/garden4.png
+background: ../images/garden4.jpeg
 permalink: /gg-guide/
 ---
 ## How to be a GOOD GARDENER for this world
