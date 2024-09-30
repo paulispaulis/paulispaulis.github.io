@@ -10,19 +10,19 @@ permalink:
     Home
   </a>
 
-  <a href="/gg-guide/gg-adiyogi/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+  <a href="/gg-guide/gg-adiyogi" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
     Adiyogi
   </a>
 
-  <a href="/gg-guide/gg-demigod/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+  <a href="/gg-guide/gg-demigod" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
     Demigod
   </a>
 
-  <a href="/gg-guide/gg-odyssey/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+  <a href="/gg-guide/gg-odyssey" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
     Odyssey
   </a>
 
-  <a href="/gg-guide/gg-prometeus/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+  <a href="/gg-guide/gg-prometeus" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
     Prometeus
   </a>
 
@@ -173,19 +173,19 @@ Allowing you to make love with life instead of merely enduring it.
     Home
   </a>
 
-  <a href="/gg-guide/gg-adiyogi/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+  <a href="/gg-guide/gg-adiyogi" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
     Adiyogi
   </a>
 
-  <a href="/gg-guide/gg-demigod/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+  <a href="/gg-guide/gg-demigod" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
     Demigod
   </a>
 
-  <a href="/gg-guide/gg-odyssey/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+  <a href="/gg-guide/gg-odyssey" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
     Odyssey
   </a>
 
-  <a href="/gg-guide/gg-prometeus/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+  <a href="/gg-guide/gg-prometeus" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
     Prometeus
   </a>
 
