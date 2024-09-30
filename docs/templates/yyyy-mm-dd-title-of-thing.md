@@ -3,7 +3,7 @@ layout: post
 title: title of thing
 subtitle: 
 date: "{{date}} 04:20:00 +0200"
-background: ../images/some.jpeg
+background: /images/some.jpeg
 categories: 
 permalink: /smthn-smthn
 ---
@@ -17,7 +17,7 @@ p {
 
 ---
 
-You are welcome to [comment and discuss under the relevant post on X](){:target="_blank" rel="noopener noreferrer"}.
+You are welcome to [comment and discuss at the YouTube video](https://www.youtube.com/@paulisbarzdins){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 
@@ -40,7 +40,7 @@ Quote example:
 
 ---
 
-You are welcome to [comment and discuss under the relevant post on X](){:target="_blank" rel="noopener noreferrer"}.
+You are welcome to [comment and discuss at the YouTube video](https://www.youtube.com/@paulisbarzdins){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 

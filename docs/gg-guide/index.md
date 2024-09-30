@@ -1,9 +1,33 @@
 ---
 layout: page
 title: Guide to being a GOOD GARDENER
-background: ../images/garden4.jpeg
+background: /images/garden4.jpeg
 permalink: /gg-guide/
 ---
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="/gg-guide/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+    Home
+  </a>
+
+  <a href="/gg-guide/gg-adiyogi/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+    Adiyogi
+  </a>
+
+  <a href="/gg-guide/gg-demigod/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+    Demigod
+  </a>
+
+  <a href="/gg-guide/gg-odyssey/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+    Odyssey
+  </a>
+
+  <a href="/gg-guide/gg-prometeus/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+    Prometeus
+  </a>
+
+</div>
+
 ## How to be a GOOD GARDENER for this world
 
 This is not a guide about tending plants in the soil, but on living a beautiful life.
@@ -46,7 +70,7 @@ Imagine no longer being restricted by the limited capabilities of your body. Ins
 
 This isn't just about curating a body; it's about carving out your place among the gods. Begin your journey towards a divine transformation, my friend. Your ascendance starts here.
 
-![](https://public-files.gumroad.com/9jmsaxfx76658mkmk89p9k1cok9a)
+<img src="https://public-files.gumroad.com/9jmsaxfx76658mkmk89p9k1cok9a" alt="Description of the image" style="width: 100%; height: auto;">
 
 I know that a topless pic of my hot bod would hook you better, but I'll try the clothed approach first. That's me, jumping there! (more pics in the demigod section)
 
@@ -65,3 +89,27 @@ So, are you ready to take the reins and embark on your own Odyssey?
 ### PROMETEUS:
 
 Finally remember to teach. Don't hoard what you've discovered. If it was enough to help you, it is enough to help someone else. Now go have fun!
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="/gg-guide/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+    Home
+  </a>
+
+  <a href="/gg-guide/gg-adiyogi/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+    Adiyogi
+  </a>
+
+  <a href="/gg-guide/gg-demigod/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+    Demigod
+  </a>
+
+  <a href="/gg-guide/gg-odyssey/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+    Odyssey
+  </a>
+
+  <a href="/gg-guide/gg-prometeus/" style="flex: 1; text-align: center; padding: 10px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">
+    Prometeus
+  </a>
+
+</div>

@@ -20,4 +20,8 @@ Our guide is divided into four sections:
 
 This isn't about just surviving life, but making love with it. Ready to start your journey as a Good Gardener? Get this guide today, and let's embark on a journey toward a life that truly sparks joy!
 
-<button onclick="location.href='/gg-guide/'" type="button"> Start the Guide </button>
+<div style="text-align: center; margin-top: 20px;">
+  <button onclick="location.href='/gg-guide/'" type="button" style="text-align: center; padding: 10px 20px; background-color: #006400; color: white; text-decoration: none; border-radius: 5px; border: none; cursor: pointer;">
+    Start the Guide
+  </button>
+</div>
