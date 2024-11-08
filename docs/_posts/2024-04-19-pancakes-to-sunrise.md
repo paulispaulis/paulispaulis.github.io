@@ -38,6 +38,8 @@ Quote example:
 
 {% endcomment %}
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T2PzrBl9JL0?si=4VG2mPaJ1QwvQ7E5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # from pancakes at 3AM to waking with the sunrise
 
 Have you ever found yourself making pancakes at 3 am, instead of sleeping? Come here, let me tell you

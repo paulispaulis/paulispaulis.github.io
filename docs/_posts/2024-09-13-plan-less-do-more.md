@@ -38,6 +38,8 @@ Quote example:
 
 {% endcomment %}
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xiIvwQEBPjY?si=wMFVAhCPaZki1WEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Do you ever feel overwhelmed by your long-term plans and goals? Trapped in endless planning and procrastination. No matter how perfect of a habit routine and action plan you design, it is always delayed until "tomorrow". Thus you only ever live in the frustration and guilt of not following through on your plans.
 
 Ciao! I'm PAULIS.

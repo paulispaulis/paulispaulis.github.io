@@ -38,6 +38,8 @@ Quote example:
 
 {% endcomment %}
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IoJX3Ew0nvk?si=A3RUVXcXlt8OMetr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Do you often feel overwhelmed by the sheer amount of self-improvement advice out there? It's like you're drowning in a sea of motivational quotes and life hacks, but nothing seems to stick or make a real difference. You want to build and improve yourself. Be an 8 or above, cool as James Bond, become epic. Ever wondered what separates those who merely dream from those who achieve? Actionable skill-building blueprint.
 
 Ciao! I'm PAULIS.
