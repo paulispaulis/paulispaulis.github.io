@@ -227,7 +227,17 @@ Mostly all the same, but I like to weave them LOOSER. Comfier to sit when the pe
 
 ---
 
-This is as much as I could squeeze into a "starter" checklist. Check out [***my current and upcoming videos on youtube***](https://www.youtube.com/@paulisbarzdins) for more details. Good luck on your net!
+This is as much as I could squeeze into a "starter" checklist. My [YouTube](https://www.youtube.com/@paulisbarzdins) has video guidance.
+
+**WANT MORE STRUCTURED TEACHING?** i've made a [substack...](https://letters.paulis.id.lv) it's new... in progress... here it is...
+
+[https://letters.paulis.id.lv](https://letters.paulis.id.lv)
+
+I will never save and hide details from my vids for the course.
+
+The idea is... Random posts free, but paid is a structured mini-course... let's see how it works out
+
+Good luck on your net!
 
 ---
 
